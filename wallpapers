@@ -12,7 +12,7 @@
 #   all you need is a wallpaper changer for your desktop environment and is a done deal son loL
 
 # Variable (you can change any of these to your liking)
-real_wall_dir=/Data/midfingr/Pictures/walls
+real_wall_dir=~/Pictures/wallpaper
 temp_wall_dir=/tmp/wallpaper_interfacelift
 expire_wall_date=7
 url_wall_link=https://interfacelift.com/wallpaper/downloads/random/wide_16:9/1920x1080/
